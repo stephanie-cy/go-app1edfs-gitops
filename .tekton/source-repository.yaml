@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: go-app1edfs-repository
+spec:
+  url: https://github.com/stephanie-cy/go-app1edfs
